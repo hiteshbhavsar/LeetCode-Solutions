@@ -1,4 +1,8 @@
 class Candy {
+    /*
+        Runtime: 2 ms, faster than 93.08% of Java online submissions for Candy.
+        Memory Usage: 40 MB, less than 61.93% of Java online submissions for Candy.
+    */
     public int candy(int[] ratings) {
         int candies[]=new int[ratings.length];
         candies[0]=1;
