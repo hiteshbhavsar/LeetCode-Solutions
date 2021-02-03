@@ -1,4 +1,9 @@
 class MergeSortedArray {
+    /*
+        Runtime: 0 ms, faster than 100.00% of Java online submissions for Merge Sorted Array.
+        Memory Usage: 39.4 MB, less than 23.26% of Java online submissions for Merge Sorted Array.
+    */
+    
     
     public void merge(int[] A, int m, int[] B, int n) {
         // In this code we start comparison from the last index
