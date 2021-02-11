@@ -1,4 +1,8 @@
 class Solution:
+    '''
+    Runtime: 36 ms, faster than 97.00% of Python3 online submissions for Count and Say.
+    Memory Usage: 14.3 MB, less than 79.43% of Python3 online submissions for Count and Say.
+    '''
     def countAndSay(self, n):
         """
         :type n: int
