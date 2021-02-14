@@ -7,6 +7,10 @@
  * }
  */
 class RemoveNthFromEnd {
+    /*
+    Runtime: 8 ms, faster than 18.16% of Java online submissions for Remove Nth Node From End of List.
+    Memory Usage: 38.7 MB, less than 17.24% of Java online submissions for Remove Nth Node From End of List.
+    */
     public ListNode removeNthFromEnd(ListNode head, int n) {
         ListNode Node=head;int count=0;ListNode temp;
         Stack<Integer> istack=new Stack<Integer>();
