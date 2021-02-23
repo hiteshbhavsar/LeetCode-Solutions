@@ -1,3 +1,3 @@
 # *LeetCode-Daily Practice*
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hiteshbhavsar/LeetCode-Practice?color=red&logoColor=blue)
-![](https://tokei.rs/b1/github/hiteshbhavsar/LeetCode-Practice)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hiteshbhavsar/LeetCode-Solutions?color=red&logoColor=blue)
+![](https://tokei.rs/b1/github/hiteshbhavsar/LeetCode-Solutions)
