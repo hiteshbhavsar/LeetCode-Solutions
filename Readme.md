@@ -6,4 +6,4 @@
 
 |  #  |      Title     |   Solutions   |   Category   |         
 |-----|----------------|---------------|--------------|
-
+|1837|[Maximum Sub Array](https://leetcode.com/problems/maximum-subarray/)|[Solution](../master/MaximumSubArray.java)||Easy|
