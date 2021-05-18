@@ -10,3 +10,4 @@
 |114|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Solution](../master/PreorderTraversal.java)|Medium|
 |637|[Average of levels in Binary tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Solution](../master/AverageOfLevels.java)|Easy|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Solution](../master/BackspaceCompare.java)|Easy|
+|704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Solution](../master/BinarySearch.java)|Easy|
