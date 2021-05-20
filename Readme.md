@@ -12,3 +12,4 @@
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Solution](../master/BackspaceCompare.java)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Solution](../master/BinarySearch.java)|Easy|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution](../master/InsertIntoBST.java)|Medium|
+||[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../master/FindCenterinStarGraph.java)|Medium|
