@@ -14,5 +14,5 @@
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution](../master/InsertIntoBST.java)|Medium|
 |1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../master/FindCenterinStarGraph.java)|Medium|
 |24|[Swap nodes in Pair](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Solution](../master/swapPairs.py)|Medium|
-
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](../master/strStr.py)|Easy|
 
