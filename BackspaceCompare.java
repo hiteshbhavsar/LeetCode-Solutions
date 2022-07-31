@@ -1,4 +1,43 @@
 class BackspaceCompare {
+    /*
+    Runtime: 1 ms, faster than 94.32% of Java online submissions for Backspace String Compare.
+Memory Usage: 40.6 MB, less than 91.02% of Java online submissions for Backspace String Compare.
+    */
+    public boolean backspaceCompare(String s, String t) {
+        StringBuilder s_sb=new StringBuilder();
+        StringBuilder t_sb=new StringBuilder();
+        for(int i=0;i<s.length();i++)
+        {
+            if(s.charAt(i)=='#' && s_sb.length()>0)
+            {
+                s_sb.deleteCharAt(s_sb.length()-1);
+            }
+            else
+            {
+                if(s.charAt(i)!='#')
+                    s_sb.append(s.charAt(i));
+            }
+        }
+        
+        for(int i=0;i<t.length();i++)
+        {
+            if(t.charAt(i)=='#' && t_sb.length()>0)
+            {
+                t_sb.deleteCharAt(t_sb.length()-1);
+            }
+            else
+            {
+                if(t.charAt(i)!='#')
+                    t_sb.append(t.charAt(i));
+            }
+                
+        }
+        
+        return s_sb.toString().equals(t_sb.toString());
+    }
+}
+/*
+class BackspaceCompare {
 public boolean backspaceCompare(String S, String T) {
 	assert S != null && T != null;
 
@@ -45,3 +84,4 @@ private int skipBackspaceCharacters(String s, int index) {
     return index;
 }
 }
+*/
